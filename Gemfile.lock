@@ -181,6 +181,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (~> 1.13, >= 1.13.6)
   byebug
   capistrano
   capistrano-bundler
