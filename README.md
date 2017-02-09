@@ -3,7 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-This is a test application only, nothing more. Updates to test webhook.
+This is a test application only, nothing more. Additional updates to test webhook.
 
 Things you may want to cover:
 
