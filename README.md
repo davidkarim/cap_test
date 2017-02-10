@@ -3,7 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-This is a test application only, nothing more. Additional updates to test webhook again. Gave Jenkins write access to repo.
+This is a test application only, Additional updates to test webhook again. Gave Jenkins write access to repo.
 
 Things you may want to cover:
 
