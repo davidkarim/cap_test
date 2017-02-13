@@ -7,7 +7,7 @@ This is a test application only, Updates to test webhook again. Gave Jenkins wri
 
 Testing comment update again. Jenkins now building on push and has repo. Added global secret to Jenkins. Removed job key. Branch specifier
 
-Added triggering repo.
+Added triggering repo. Testing with two repos.
 
 Things you may want to cover:
 
