@@ -5,7 +5,7 @@ application up and running.
 
 This is a test application only, Updates to test webhook again. Gave Jenkins write access to repo. Global secret added to Jenkins Settings.
 
-Testing comment update again. Jenkins now building on push and has repo. Added global secret to Jenkins. Removed job key
+Testing comment update again. Jenkins now building on push and has repo. Added global secret to Jenkins. Removed job key. Branch specifier
 
 Things you may want to cover:
 
