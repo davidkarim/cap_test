@@ -9,7 +9,7 @@ Testing comment update again. Jenkins now building on push and has repo. Added g
 
 Added triggering repo. Testing with two repos. Displaying git_commit_sha var. Now using GIT_COMMIT_1 var as explained in pull request for plugin.
 
-Should show comment and do RSpec testing. Full test. Second full test. Fourth test, added stdout. New payload....March 15. Put back xvfb. Comment fixed.
+Should show comment and do RSpec testing. Full test. Second full test. Fourth test, added stdout. New payload....March 15. Put back xvfb. Comment fixed..
 
 Things you may want to cover:
 
