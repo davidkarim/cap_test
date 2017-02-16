@@ -11,7 +11,7 @@ Added triggering repo. Testing with two repos. Displaying git_commit_sha var. No
 
 Should show comment and do RSpec testing. Full test. Second full test. Fourth test, added stdout. New payload....March 15. Put back xvfb. Comment fixed.
 
-Flattened html directory..
+Flattened html directory. Full RSpec test.
 
 Things you may want to cover:
 
