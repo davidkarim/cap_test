@@ -13,6 +13,8 @@ Should show comment and do RSpec testing. Full test. Second full test. Fourth te
 
 Flattened html directory. Full RSpec test with edits to publish command....Removed double quotes.
 
+Testing echo -e.
+
 Things you may want to cover:
 
 * Ruby version
