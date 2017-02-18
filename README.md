@@ -13,7 +13,7 @@ Should show comment and do RSpec testing. Full test. Second full test. Fourth te
 
 Flattened html directory. Full RSpec test with edits to publish command....Removed double quotes.
 
-Testing echo -e. Five tests final. Typo. Put back all tests. Two plays.Pipelining.
+Testing echo -e. Five tests final. Typo. Put back all tests. Two plays.Pipelining. Using head.
 
 Things you may want to cover:
 
