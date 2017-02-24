@@ -15,7 +15,7 @@ Flattened html directory. Full RSpec test with edits to publish command....Remov
 
 Testing echo -e. Five tests final. Typo. Put back all tests. Two plays.Pipelining. Using head.
 
-NEW KIPU API Gateway.
+NEW KIPU API Gateway. Correct server.
 
 Things you may want to cover:
 
