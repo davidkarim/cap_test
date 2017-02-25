@@ -17,6 +17,8 @@ Testing echo -e. Five tests final. Typo. Put back all tests. Two plays.Pipelinin
 
 NEW KIPU API Gateway. Correct server. Internal test. Correct vars. New dir. Longer dir. webhook, no default. ${SESSION_ID}. Second time. Print env
 
+Local dev test
+
 Things you may want to cover:
 
 * Ruby version
