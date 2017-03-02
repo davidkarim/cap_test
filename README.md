@@ -21,7 +21,7 @@ Local dev test. End-to-end 1, 2, 3, 4,5
 
 End-to-end, Paperclip config added.
 
-NEW END-to_END test, with OAuth.
+NEW END-to_END test, with OAuth, new permissions granularity.
 
 Things you may want to cover:
 
