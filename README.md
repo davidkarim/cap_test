@@ -23,6 +23,8 @@ End-to-end, Paperclip config added.
 
 NEW END-to_END test, with OAuth, new permissions granularity.
 
+Commit for KipuCloudOpsDev.
+
 Things you may want to cover:
 
 * Ruby version
