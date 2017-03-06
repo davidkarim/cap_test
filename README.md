@@ -25,6 +25,8 @@ NEW END-to_END test, with OAuth, new permissions granularity.
 
 Commit for KipuCloudOpsDev.
 
+Test new ENV vars.
+
 Things you may want to cover:
 
 * Ruby version
