@@ -19,7 +19,14 @@ NEW KIPU API Gateway. Correct server. Internal test. Correct vars. New dir. Long
 
 Local dev test. End-to-end 1, 2, 3, 4,5
 
+
+Adding directly to develop.
+
 End-to-end, Paperclip config added. -- Adding to develop branch again --
+
+Adding directly to develop.
+
+End-to-end, Paperclip config added.
 
 NEW END-to_END test, with OAuth, new permissions granularity.
 
