@@ -25,7 +25,11 @@ NEW END-to_END test, with OAuth, new permissions granularity.
 
 Commit for KipuCloudOpsDev.
 
-Test new ENV vars.
+Test new ENV vars
+.
+Changes first to develop branch.
+
+Branching off of develop branch.
 
 Things you may want to cover:
 
