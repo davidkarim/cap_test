@@ -17,7 +17,7 @@ Testing echo -e. Five tests final. Typo. Put back all tests. Two plays.Pipelinin
 
 NEW KIPU API Gateway. Correct server. Internal test. Correct vars. New dir. Longer dir. webhook, no default. ${SESSION_ID}. Second time. Print env
 
-Local dev test. End-to-end 1, 2, 3, 4,5
+Local dev test. End-to-end 1, 2, 3, 4,5. Feature 2 here.
 
 End-to-end, Paperclip config added. Addition to master branch.
 
@@ -25,7 +25,9 @@ NEW END-to_END test, with OAuth, new permissions granularity.
 
 Commit for KipuCloudOpsDev.
 
-Test new ENV vars.
+Test new ENV vars
+.
+Changes first to develop branch.
 
 Things you may want to cover:
 
