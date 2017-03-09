@@ -29,6 +29,8 @@ Test new ENV vars
 .
 Changes first to develop branch.
 
+TESTING new relases via tag trigger an event.
+
 Things you may want to cover:
 
 * Ruby version
