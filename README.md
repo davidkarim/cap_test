@@ -29,6 +29,10 @@ Test new ENV vars
 .
 Changes first to develop branch.
 
+Branching off of develop branch.
+
+-- Quick pull request test --
+
 TESTING new relases via tag trigger an event.
 
 Things you may want to cover:
