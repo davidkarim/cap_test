@@ -29,7 +29,7 @@ Test new ENV vars
 .
 Changes first to develop branch.
 
-Branching off of develop branch.
+Branching off of develop branch. Bumping commit to create a tag.
 
 -- Quick pull request test --
 
