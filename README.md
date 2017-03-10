@@ -29,7 +29,7 @@ Test new ENV vars
 .
 Changes first to develop branch.
 
-Branching off of develop branch. Bumping commit to create a tag.
+Branching off of develop branch. Bumping commit to create a tag. Bumping second time; shouldn't trigger a build (using tag in ref).
 
 -- Quick pull request test --
 
