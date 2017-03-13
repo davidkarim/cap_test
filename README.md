@@ -36,7 +36,7 @@ One more try.
 
 TESTING new relases via tag trigger an event.
 
-TESTING STATUS UPDATES. Second test.
+TESTING STATUS UPDATES. Second test. Third.
 
 Things you may want to cover:
 
