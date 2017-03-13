@@ -36,6 +36,8 @@ One more try.
 
 TESTING new relases via tag trigger an event.
 
+TESTING STATUS UPDATES
+
 Things you may want to cover:
 
 * Ruby version
