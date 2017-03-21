@@ -38,7 +38,7 @@ TESTING new relases via tag trigger an event.
 
 TESTING STATUS UPDATES. Second test. Third. Fourth. Fifth. Pi Day test. Second today.
 
-TESTING API KEYS. Second test. Third.
+TESTING API KEYS. Second test. Third. Fourth. Fifth.
 
 Things you may want to cover:
 
