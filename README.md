@@ -38,6 +38,8 @@ TESTING new relases via tag trigger an event.
 
 TESTING STATUS UPDATES. Second test. Third. Fourth. Fifth. Pi Day test. Second today.
 
+TESTING API KEYS.
+
 Things you may want to cover:
 
 * Ruby version
