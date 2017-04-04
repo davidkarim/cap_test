@@ -40,7 +40,7 @@ TESTING STATUS UPDATES. Second test. Third. Fourth. Fifth. Pi Day test. Second t
 
 TESTING API KEYS. Second test. Third. Fourth. Fifth. Sixth. Testing bad API. 1 more.
 
-Testing url_encoding: Step 1 - application/json test.
+Testing url_encoding: Step 1 - application/json test. application/x-www-form-urlencoded
 
 Things you may want to cover:
 
